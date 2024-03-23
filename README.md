@@ -26,7 +26,11 @@ Welcome to my profile :blush:
 
 - :pushpin: I’m currently a Ph.D. student at [CEA](https://www.cea.fr/english) until October 2024.
 - :telescope: My Ph.D. work is about the safety of cyber-physical systems.
-- :computer: I spend some of my free time to challenge myself on computer science: Docker and self-hosted cloud, CTF challenges, personal programming projects, etc.
+- :computer: I spend some of my free time to challenge myself on computer science:
+    - Docker and self-hosted cloud
+    - CTF challenges
+    - Personal programming projects
+    - Etc.
 
 
 
