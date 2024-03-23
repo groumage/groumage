@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to my profile :blush:
+
+- 🔭 I’m currently working on 
+
+### Languages
+
+
+### Technologies
+
+![Static Badge](https://img.shields.io/badge/docker-000?logo=docker)
