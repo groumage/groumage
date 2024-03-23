@@ -49,7 +49,7 @@ Welcome to my profile :blush:
 
 ### Concepts I work on...
 
-#### ... during my Ph.D. thesis
+... during my Ph.D. thesis
 
 ![Static Badge](https://img.shields.io/badge/Graph_Theory-000)
 ![Static Badge](https://img.shields.io/badge/Embedded_Systems-000)
@@ -57,14 +57,14 @@ Welcome to my profile :blush:
 ![Static Badge](https://img.shields.io/badge/Dataflow_Formalism-000)
 ![Static Badge](https://img.shields.io/badge/Conceptual_Modelisation-000)
 
-#### ... during my master degree in Cryptology and the 6-months internship
+... during my master degree in Cryptology and the 6-months internship
 
 ![Static Badge](https://img.shields.io/badge/Algebra-000)
 ![Static Badge](https://img.shields.io/badge/Cryptography-000)
 ![Static Badge](https://img.shields.io/badge/Cryptanalysis-000)
 ![Static Badge](https://img.shields.io/badge/Blockchain-000)
 
-#### ... during my free time
+... during my free time
 
 ![Static Badge](https://img.shields.io/badge/Cloud_Computing-000)
 ![Static Badge](https://img.shields.io/badge/Offensive_Secuciry-000)
