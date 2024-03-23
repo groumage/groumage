@@ -74,3 +74,7 @@ Welcome to my profile :blush:
 
 ![Static Badge](https://img.shields.io/badge/PolyNom-000?logo=letsencrypt&link=https%3A%2F%2Fgithub.com%2Fgroumage%2FPolynomArithmetic)
 ![Static Badge](https://img.shields.io/badge/BlackHole-000?logo=dropbox&link=https%3A%2F%2Fgithub.com%2Fgroumage%2FParsec-TowardAMoreSecureCloud)
+
+### Credit for avatar generation
+
+I generated my avatar with [this website](https://getavataaars.com/).
