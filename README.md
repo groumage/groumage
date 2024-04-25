@@ -77,7 +77,7 @@ Welcome to my profile :blush:
 ### Project I'm proud of
 
 ![Static Badge](https://img.shields.io/badge/PolyNom-000?logo=letsencrypt&link=https%3A%2F%2Fgithub.com%2Fgroumage%2FPolynomArithmetic)
-![Static Badge](https://img.shields.io/badge/BlackHole-000?logo=dropbox&link=https%3A%2F%2Fgithub.com%2Fgroumage%2FParsec-TowardAMoreSecureCloud)
+![Static Badge](https://img.shields.io/badge/BazAds-000?logo=dropbox&link=https%3A%2F%2Fgithub.com%2Fgroumage%2FBazAds)
 
 ### Credit for avatar generation
 
