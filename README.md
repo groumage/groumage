@@ -17,11 +17,6 @@ Here are some ideas to get you started:
 
 Welcome to my profile :blush:
 
-### Available for a position in cybersecurity from November 2024
-
-- :pencil: I have a master degree in cryptology from University Paris-Diderot.
-- :white_check_mark: I'm available from **November 2024** for position in cybersecurity (full-remote or office-remote near Paris).
-
 ### Who am I?
 
 - :pushpin: I’m currently a Ph.D. student at [CEA](https://www.cea.fr/english) until October 2024.
@@ -31,8 +26,6 @@ Welcome to my profile :blush:
     - CTF challenges
     - Personal programming projects
     - Etc.
-
-
 
 ### Languages
 
