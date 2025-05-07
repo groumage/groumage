@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 Welcome to my profile :blush:
 
+02/05/25: Github profile not up to date. Coming soon :)
+
 ### Who am I?
 
 - :pushpin: I’m currently a Ph.D. student at [CEA](https://www.cea.fr/english) until October 2024.
